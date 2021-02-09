@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BootstrapBlazorAppLocalizerSampleJson.Server", "BootstrapBlazorAppLocalizerSampleJson\BootstrapBlazorAppLocalizerSampleJson.Server\BootstrapBlazorAppLocalizerSampleJson.Server.csproj", "{E3ACEE94-3A53-417D-817E-6D7F7DED663E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BootstrapBlazorAppLocalizerSampleJson.WebAssembly", "BootstrapBlazorAppLocalizerSampleJson\BootstrapBlazorAppLocalizerSampleJson.WebAssembly\BootstrapBlazorAppLocalizerSampleJson.WebAssembly.csproj", "{1CC9BBD4-1F7C-4825-9619-8CE1B150F58A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BootstrapBlazorAppLocalizerSampleJson.Shared", "BootstrapBlazorAppLocalizerSampleJson\BootstrapBlazorAppLocalizerSampleJson.Shared\BootstrapBlazorAppLocalizerSampleJson.Shared.csproj", "{DEAFDBC5-50DB-4B0D-AE99-17894A1BC472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3ACEE94-3A53-417D-817E-6D7F7DED663E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3ACEE94-3A53-417D-817E-6D7F7DED663E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3ACEE94-3A53-417D-817E-6D7F7DED663E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3ACEE94-3A53-417D-817E-6D7F7DED663E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CC9BBD4-1F7C-4825-9619-8CE1B150F58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CC9BBD4-1F7C-4825-9619-8CE1B150F58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CC9BBD4-1F7C-4825-9619-8CE1B150F58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CC9BBD4-1F7C-4825-9619-8CE1B150F58A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEAFDBC5-50DB-4B0D-AE99-17894A1BC472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAFDBC5-50DB-4B0D-AE99-17894A1BC472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAFDBC5-50DB-4B0D-AE99-17894A1BC472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAFDBC5-50DB-4B0D-AE99-17894A1BC472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2288E355-5E69-49BD-93B5-F5F9956BC984}
+	EndGlobalSection
+EndGlobal
